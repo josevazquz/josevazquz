@@ -10,7 +10,7 @@ https://portfolio.j-v.cc/ - portfolio
 
 https://twiter.com/jx1se - twitter
 
-[jose##0001](https://dsc.bio/jose) - discord 
+[josev#0001](https://dsc.bio/jose) - discord 
 
 jose@j-v.cc - email
 
