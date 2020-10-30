@@ -12,5 +12,8 @@ https://twiter.com/jx1se - twitter
 
 josev#0001 - discord 
 
+jose@j-v.cc - email
+
+
 🙂
 
