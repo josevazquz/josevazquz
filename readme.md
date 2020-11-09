@@ -17,3 +17,4 @@ jose@j-v.cc - email
 
 🙂
 
+<img title="a title" alt="Alt text" src="https://josev.shx.gg/Ho9UQM.jpeg">
