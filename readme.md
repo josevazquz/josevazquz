@@ -1,12 +1,12 @@
 # Hi there 👋
 
-I'm Jose Vazquez, a graphic designer & computer enthusiast. I also do marketing/social media. Currently voulntering for Homies for Hydration. 
+I'm Jose Vazquez, a graphic designer & computer enthusiast. I also do marketing/social media.\
 
 Find me on, 
 
-https://j-v.cc - site
+https://jose.gg - site
 
-https://portfolio.j-v.cc/ - portfolio 
+https://portfolio.jose.gg/ - portfolio 
 
 https://twiter.com/jx1se - twitter
 
@@ -17,4 +17,3 @@ jose@j-v.cc - email
 
 🙂
 
-<img title="a title" alt="Alt text" src="https://josev.shx.gg/Ho9UQM.jpeg">
