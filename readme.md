@@ -4,11 +4,9 @@ I'm Jose Vazquez, a graphic designer & computer enthusiast. I also do marketing/
 
 Find me on, 
 
-https://jose.gg - site
+https://j-v.cc - site
 
-https://portfolio.jose.gg/ - portfolio 
-
-https://twiter.com/jx1se - twitter
+https://twiter.com/xjosev - twitter
 
 [josev#0001](https://dsc.bio/jose) - discord 
 
