@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Jose Vazquez, a graphic designer & computer enthusiast. I also do marketing/social media.\
+I'm Jose, a graphic designer & computer enthusiast. I also specialize marketing/social media.\
 
 Find me on, 
 
